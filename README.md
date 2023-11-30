@@ -6,3 +6,8 @@ The dataset contains COVID Deaths (Covid_Deaths.xlsx) and COVID Vaccinations (Co
 ## Usage
 This repository contains the code for analysis in a '.sql' file with appropriate relevant comments and headings for each query. 
 For viewing results of each query :
+- Open Microsoft SQL Server Management Studio
+- Create Database "Portfolio Project"
+- Import datasets via 'Tasks' -> 'Import Data' and name the tables "Covid_Deaths" and "Covid_Vaccinations"
+- Open .sql code file in relevant database
+- Execute query chronologically
