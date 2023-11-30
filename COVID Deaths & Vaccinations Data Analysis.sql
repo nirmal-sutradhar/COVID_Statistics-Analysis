@@ -1,4 +1,4 @@
--- COVID DEATH & VACCINATIONS DATA as of May 04, 2021
+-- COVID DEATHS & VACCINATIONS DATA as of May 04, 2021
 -- Data Exploration & Analysis
 
 SELECT *
